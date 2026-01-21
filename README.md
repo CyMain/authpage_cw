@@ -1,4 +1,4 @@
-# Project Title
+# Login-SignUp Pages
 
 This repository contains the source code for our academic project.
 
